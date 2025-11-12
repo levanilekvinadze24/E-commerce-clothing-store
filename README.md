@@ -2,7 +2,6 @@
 
 > Full-stack clothing shop: catalog, cart, checkout, orders, admin.
 
-[Live Demo](#) • [API Docs](#) • [Project Board](#)
 
 ## Features
 - Catalog (categories, search, filters: size/color/price)
